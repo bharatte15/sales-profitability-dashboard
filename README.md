@@ -25,7 +25,7 @@ Data Analysis – Performed exploratory analysis using Python
 Visualization – Built interactive dashboards in Power BI
 Insights Generation – Identified key business trends and recommendations
 
-📊 Dashboard Features:
+Dashboard Features:
 KPI Cards: Total Sales, Total Profit, Profit Margin
 Sales vs Profit Trend Analysis
 Region-wise Performance
@@ -33,24 +33,24 @@ Top Products by Profit
 Discount vs Profit Correlation
 Interactive Filters (Region, Category, Year)
 
-📈 Key Insights:
+Key Insights:
 High discounts negatively impact profitability
 Certain regions generate high sales but lower profit margins
 A small group of products contributes significantly to total revenue
 Profitability varies across categories and customer segments
 
-💡 Business Recommendations:
+Business Recommendations:
 Optimize discount strategies to improve margins
 Focus on high-profit regions and products
 Reduce dependency on low-margin sales
 Use data insights for strategic decision-making
 
-🔮 Future Enhancements:
+Future Enhancements:
 Sales forecasting using time-series models
 Customer segmentation for targeted strategies
 Integration with real-time data sources
 
-📁 Project Files:
+Project Files:
 cleaned_sales_data.csv – Processed dataset
 dashboard.pbix – Power BI dashboard file
 notebook.ipynb – Python data analysis notebook
