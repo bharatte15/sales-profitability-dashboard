@@ -1,0 +1,14 @@
+
+Key Insights:
+- Total Sales: 2,297,200.86
+- Total Profit: 286,397.02
+
+Business Insights:
+- High discounts negatively impact profit
+- Some regions generate high sales but low profit
+- Few categories dominate revenue
+
+Recommendations:
+- Reduce excessive discounts
+- Focus on profitable regions
+- Optimize product mix
